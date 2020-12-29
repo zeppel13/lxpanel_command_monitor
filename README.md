@@ -10,4 +10,5 @@ This lxpanel plugin queries playerctl every second and displays the current arti
 
 
 ![Plugin living inside lxpanel and displaying a predefined command](plugin_image.png)
+
 Plugin living inside lxpanel and displaying a predefined command
