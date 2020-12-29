@@ -1,4 +1,4 @@
-# lxpanel_command_monitor
+# lxpanel_command_monitor  „Commander“
 
 edit code and
 
